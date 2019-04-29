@@ -9,8 +9,11 @@ The goal of this project is to generate human faces using DCGAN
 
 This project is done using [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), a large dataset containing human faces of celebrities
 
-## Install
-I provide the [environment](https://github.com/titoniubo/DCGAN_human_faces/blob/master/cnn_environment.yml) used to run this code.
+### Install
+I provide the [environment](https://github.com/titoniubo/DCGAN_human_faces/blob/master/environment.yml) used to run this code.
+
+### Acknowledgments
+This project is done thanks to what I learnt at [Udacity](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
 
 ### Code of ethics
 
