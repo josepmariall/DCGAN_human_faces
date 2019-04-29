@@ -1,10 +1,12 @@
 # DCGAN for human faces
-The goal of this project is to generate human faces using DCGAN
 
 <img src='assets/model.png' width=100% />
  
 
 ## About this project 
+
+The goal of this project is to generate human faces using DCGAN
+
 This project is done using [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), a large dataset containing human faces of celebrities
 
 ## Install
