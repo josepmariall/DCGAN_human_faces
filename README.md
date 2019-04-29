@@ -17,4 +17,4 @@ I provide the [environment](https://github.com/titoniubo/DCGAN_human_faces/blob/
 This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/DCGAN_human_faces/blob/master/Code%20of%20ethics.txt) 
 
 ### License
-This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/Canine_classifier/blob/master/License.txt) file
+This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/DCGAN_human_faces/blob/master/License.txt) file
