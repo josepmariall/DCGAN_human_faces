@@ -1,6 +1,7 @@
+<img src='assets/model.png' width=100% />
+
 # DCGAN for human faces
 
-<img src='assets/model.png' width=100% />
  
 
 ## About this project 
